@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/1910ab4fef7545c68d59e313158def2a/artifacts
+end_time: 1734260708546
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: active
+run_id: 1910ab4fef7545c68d59e313158def2a
+run_name: welcoming-hound-377
+run_uuid: 1910ab4fef7545c68d59e313158def2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260708463
+status: 3
+tags: []
+user_id: migue

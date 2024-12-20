@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/414140601448246136/8477376af7484a458034fbbba4679fd6/artifacts
+deleted_time: 1734259934551
+end_time: 1734259253855
+entry_point_name: ''
+experiment_id: '414140601448246136'
+lifecycle_stage: deleted
+run_id: 8477376af7484a458034fbbba4679fd6
+run_name: invincible-moose-787
+run_uuid: 8477376af7484a458034fbbba4679fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259253689
+status: 3
+tags: []
+user_id: migue

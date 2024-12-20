@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/migue/portcanto/mlruns/414140601448246136
+creation_time: 1734256177753
+experiment_id: '414140601448246136'
+last_update_time: 1734259934551
+lifecycle_stage: deleted
+name: K sklearn portcanto
+tags:
+  mlflow.note.content: portcanto variació de paràmetre K

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/4ecd2ed003484fb296b711e71f09cb62/artifacts
+deleted_time: 1734259683670
+end_time: 1734259675636
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 4ecd2ed003484fb296b711e71f09cb62
+run_name: whimsical-flea-212
+run_uuid: 4ecd2ed003484fb296b711e71f09cb62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259675372
+status: 3
+tags: []
+user_id: migue

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/414140601448246136/29618a8e97044f5abb578f86708e669a/artifacts
+deleted_time: 1734258711682
+end_time: 1734257900894
+entry_point_name: ''
+experiment_id: '414140601448246136'
+lifecycle_stage: deleted
+run_id: 29618a8e97044f5abb578f86708e669a
+run_name: angry-fish-818
+run_uuid: 29618a8e97044f5abb578f86708e669a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734257900540
+status: 3
+tags: []
+user_id: migue

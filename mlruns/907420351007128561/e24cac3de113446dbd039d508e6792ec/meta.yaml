@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/e24cac3de113446dbd039d508e6792ec/artifacts
+deleted_time: 1734260663352
+end_time: 1734260026414
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: e24cac3de113446dbd039d508e6792ec
+run_name: spiffy-finch-386
+run_uuid: e24cac3de113446dbd039d508e6792ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260026281
+status: 3
+tags: []
+user_id: migue

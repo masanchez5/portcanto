@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/313f094ad2c24d5fac96ae54fa538da4/artifacts
+deleted_time: 1734260701776
+end_time: 1734260692965
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 313f094ad2c24d5fac96ae54fa538da4
+run_name: adorable-ram-808
+run_uuid: 313f094ad2c24d5fac96ae54fa538da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260692889
+status: 3
+tags: []
+user_id: migue

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/1f9699c137c44b758411fcc17e06f644/artifacts
+deleted_time: 1734259857290
+end_time: 1734259828437
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 1f9699c137c44b758411fcc17e06f644
+run_name: capable-deer-909
+run_uuid: 1f9699c137c44b758411fcc17e06f644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259828054
+status: 3
+tags: []
+user_id: migue

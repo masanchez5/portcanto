@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas
+seaborn
+matplotlib
+scikit-learn
+pickle4
+mlflow
+pylint
+pydocx

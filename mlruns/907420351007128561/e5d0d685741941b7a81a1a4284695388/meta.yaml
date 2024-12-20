@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/e5d0d685741941b7a81a1a4284695388/artifacts
+deleted_time: 1734260019880
+end_time: 1734259888288
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: e5d0d685741941b7a81a1a4284695388
+run_name: amusing-trout-658
+run_uuid: e5d0d685741941b7a81a1a4284695388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259883051
+status: 3
+tags: []
+user_id: migue

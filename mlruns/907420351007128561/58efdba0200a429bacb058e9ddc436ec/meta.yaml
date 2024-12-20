@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/58efdba0200a429bacb058e9ddc436ec/artifacts
+deleted_time: 1734259730688
+end_time: 1734259706579
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 58efdba0200a429bacb058e9ddc436ec
+run_name: awesome-deer-349
+run_uuid: 58efdba0200a429bacb058e9ddc436ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259706348
+status: 3
+tags: []
+user_id: migue

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/fe44217d17b64f318f861ec3c5376808/artifacts
+deleted_time: 1734260701784
+end_time: 1734260692673
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: fe44217d17b64f318f861ec3c5376808
+run_name: judicious-horse-845
+run_uuid: fe44217d17b64f318f861ec3c5376808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260692606
+status: 3
+tags: []
+user_id: migue

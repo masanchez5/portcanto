@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/76dedd3cc99a4109b0e429805e45bd23/artifacts
+deleted_time: 1734259796656
+end_time: 1734259737640
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 76dedd3cc99a4109b0e429805e45bd23
+run_name: upbeat-colt-794
+run_uuid: 76dedd3cc99a4109b0e429805e45bd23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259731196
+status: 3
+tags: []
+user_id: migue

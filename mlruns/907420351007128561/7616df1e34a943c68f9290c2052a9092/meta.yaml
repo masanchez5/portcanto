@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/7616df1e34a943c68f9290c2052a9092/artifacts
+deleted_time: 1734260663360
+end_time: 1734260026123
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 7616df1e34a943c68f9290c2052a9092
+run_name: debonair-pig-31
+run_uuid: 7616df1e34a943c68f9290c2052a9092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260020509
+status: 3
+tags: []
+user_id: migue

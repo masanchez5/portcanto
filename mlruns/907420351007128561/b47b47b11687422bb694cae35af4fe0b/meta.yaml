@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/b47b47b11687422bb694cae35af4fe0b/artifacts
+deleted_time: 1734259683662
+end_time: 1734259675966
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: b47b47b11687422bb694cae35af4fe0b
+run_name: funny-sheep-57
+run_uuid: b47b47b11687422bb694cae35af4fe0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259675865
+status: 3
+tags: []
+user_id: migue

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/414140601448246136/d1ff2536572c4262ac6eb2aa0d0702e3/artifacts
+deleted_time: 1734259934551
+end_time: 1734259253535
+entry_point_name: ''
+experiment_id: '414140601448246136'
+lifecycle_stage: deleted
+run_id: d1ff2536572c4262ac6eb2aa0d0702e3
+run_name: serious-hen-144
+run_uuid: d1ff2536572c4262ac6eb2aa0d0702e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259253278
+status: 3
+tags: []
+user_id: migue

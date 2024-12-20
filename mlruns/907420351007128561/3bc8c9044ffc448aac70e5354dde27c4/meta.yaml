@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/3bc8c9044ffc448aac70e5354dde27c4/artifacts
+deleted_time: 1734260663364
+end_time: 1734260020487
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 3bc8c9044ffc448aac70e5354dde27c4
+run_name: persistent-fox-466
+run_uuid: 3bc8c9044ffc448aac70e5354dde27c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260020395
+status: 3
+tags: []
+user_id: migue

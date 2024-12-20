@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/2eedfad47dca4d02986d4007285a4599/artifacts
+deleted_time: 1734260701779
+end_time: 1734260692870
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 2eedfad47dca4d02986d4007285a4599
+run_name: clumsy-grub-225
+run_uuid: 2eedfad47dca4d02986d4007285a4599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260692788
+status: 3
+tags: []
+user_id: migue

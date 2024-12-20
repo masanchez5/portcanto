@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/414140601448246136/22ea658dd09b4f31b2e2c1abb2f4b702/artifacts
+deleted_time: 1734259934551
+end_time: 1734259254490
+entry_point_name: ''
+experiment_id: '414140601448246136'
+lifecycle_stage: deleted
+run_id: 22ea658dd09b4f31b2e2c1abb2f4b702
+run_name: persistent-crow-161
+run_uuid: 22ea658dd09b4f31b2e2c1abb2f4b702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259254352
+status: 3
+tags: []
+user_id: migue

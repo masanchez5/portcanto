@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/06b8ab89235d4c56a162574679be418c/artifacts
+deleted_time: 1734260701781
+end_time: 1734260692771
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 06b8ab89235d4c56a162574679be418c
+run_name: merciful-bee-398
+run_uuid: 06b8ab89235d4c56a162574679be418c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260692690
+status: 3
+tags: []
+user_id: migue

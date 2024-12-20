@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/414140601448246136/63252450caf34032be1b9b17fa3e4ebe/artifacts
+deleted_time: 1734259253102
+end_time: 1734258712194
+entry_point_name: ''
+experiment_id: '414140601448246136'
+lifecycle_stage: deleted
+run_id: 63252450caf34032be1b9b17fa3e4ebe
+run_name: legendary-dog-725
+run_uuid: 63252450caf34032be1b9b17fa3e4ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734258712098
+status: 3
+tags: []
+user_id: migue

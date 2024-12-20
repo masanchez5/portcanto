@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/c86bbb9c67b741b69e9af069c535640a/artifacts
+deleted_time: 1734259796642
+end_time: 1734259737817
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: c86bbb9c67b741b69e9af069c535640a
+run_name: nervous-conch-941
+run_uuid: c86bbb9c67b741b69e9af069c535640a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259737655
+status: 3
+tags: []
+user_id: migue

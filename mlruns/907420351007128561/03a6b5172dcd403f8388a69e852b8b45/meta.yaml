@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/03a6b5172dcd403f8388a69e852b8b45/artifacts
+deleted_time: 1734259683660
+end_time: 1734259676061
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 03a6b5172dcd403f8388a69e852b8b45
+run_name: gifted-gnu-815
+run_uuid: 03a6b5172dcd403f8388a69e852b8b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259675982
+status: 3
+tags: []
+user_id: migue

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/414140601448246136/4dcc92d8780640dc9909ab96c4aadc6a/artifacts
+deleted_time: 1734259934551
+end_time: 1734259254040
+entry_point_name: ''
+experiment_id: '414140601448246136'
+lifecycle_stage: deleted
+run_id: 4dcc92d8780640dc9909ab96c4aadc6a
+run_name: dashing-ram-740
+run_uuid: 4dcc92d8780640dc9909ab96c4aadc6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259253884
+status: 3
+tags: []
+user_id: migue

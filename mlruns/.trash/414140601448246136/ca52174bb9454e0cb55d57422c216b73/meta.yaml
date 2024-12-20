@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/414140601448246136/ca52174bb9454e0cb55d57422c216b73/artifacts
+deleted_time: 1734259934551
+end_time: 1734259254188
+entry_point_name: ''
+experiment_id: '414140601448246136'
+lifecycle_stage: deleted
+run_id: ca52174bb9454e0cb55d57422c216b73
+run_name: dazzling-hare-226
+run_uuid: ca52174bb9454e0cb55d57422c216b73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259254061
+status: 3
+tags: []
+user_id: migue

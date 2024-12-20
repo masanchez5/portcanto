@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/d253aa6b9e1245d78c74ddb4f377e544/artifacts
+deleted_time: 1734259796610
+end_time: 1734259738061
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: d253aa6b9e1245d78c74ddb4f377e544
+run_name: zealous-wasp-857
+run_uuid: d253aa6b9e1245d78c74ddb4f377e544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259737969
+status: 3
+tags: []
+user_id: migue

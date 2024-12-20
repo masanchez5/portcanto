@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/d1723f193eed48c7b0d626272126a5e9/artifacts
+deleted_time: 1734259857288
+end_time: 1734259828888
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: d1723f193eed48c7b0d626272126a5e9
+run_name: trusting-penguin-923
+run_uuid: d1723f193eed48c7b0d626272126a5e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259828556
+status: 3
+tags: []
+user_id: migue

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/63097259e0444ae7b3b3e279225d3370/artifacts
+deleted_time: 1734259857295
+end_time: 1734259827483
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 63097259e0444ae7b3b3e279225d3370
+run_name: mercurial-shad-528
+run_uuid: 63097259e0444ae7b3b3e279225d3370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259827182
+status: 3
+tags: []
+user_id: migue

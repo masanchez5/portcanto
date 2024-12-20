@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/414140601448246136/acd7297ff47640d586af758a04a7de4e/artifacts
+deleted_time: 1734259934551
+end_time: 1734259254329
+entry_point_name: ''
+experiment_id: '414140601448246136'
+lifecycle_stage: deleted
+run_id: acd7297ff47640d586af758a04a7de4e
+run_name: capricious-shrew-123
+run_uuid: acd7297ff47640d586af758a04a7de4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259254213
+status: 3
+tags: []
+user_id: migue

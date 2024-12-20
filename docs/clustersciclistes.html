@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Python: module clustersciclistes</title>
+</head><body>
+
+<table class="heading">
+<tr class="heading-text decor">
+<td class="title">&nbsp;<br><strong class="title">clustersciclistes</strong></td>
+<td class="extra"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Cmigue%5Cportcanto%5Cclustersciclistes.py">c:\users\migue\portcanto\clustersciclistes.py</a></td></tr></table>
+    <p><span class="code">@&nbsp;IOC&nbsp;-&nbsp;CE&nbsp;IABD</span></p>
+<p>
+<table class="section">
+<tr class="decor pkg-content-decor heading-text">
+<td class="section-title" colspan=3>&nbsp;<br><strong class="bigsection">Modules</strong></td></tr>
+    
+<tr><td class="decor pkg-content-decor"><span class="code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td>&nbsp;</td>
+<td class="singlecolumn"><table><tr><td class="multicolumn"><a href="logging.html">logging</a><br>
+<a href="pandas.html">pandas</a><br>
+</td><td class="multicolumn"><a href="pickle.html">pickle</a><br>
+<a href="matplotlib.pyplot.html">matplotlib.pyplot</a><br>
+</td><td class="multicolumn"><a href="seaborn.html">seaborn</a><br>
+</td><td class="multicolumn"></td></tr></table></td></tr></table><p>
+<table class="section">
+<tr class="decor functions-decor heading-text">
+<td class="section-title" colspan=3>&nbsp;<br><strong class="bigsection">Functions</strong></td></tr>
+    
+<tr><td class="decor functions-decor"><span class="code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td>&nbsp;</td>
+<td class="singlecolumn"><dl><dt><a name="-EDA"><strong>EDA</strong></a>(df)</dt><dd><span class="code">Exploratory&nbsp;Data&nbsp;Analysis&nbsp;del&nbsp;dataframe<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;df&nbsp;--&nbsp;dataframe<br>
+&nbsp;<br>
+Returns:&nbsp;None</span></dd></dl>
+ <dl><dt><a name="-associar_clusters_patrons"><strong>associar_clusters_patrons</strong></a>(tipus, model)</dt><dd><span class="code">Associa&nbsp;els&nbsp;clústers&nbsp;(labels&nbsp;0,&nbsp;1,&nbsp;2,&nbsp;3)&nbsp;als&nbsp;patrons&nbsp;de&nbsp;comportament&nbsp;(BEBB,&nbsp;BEMB,&nbsp;MEBB,&nbsp;MEMB).<br>
+S'han&nbsp;trobat&nbsp;4&nbsp;clústers&nbsp;però&nbsp;aquesta&nbsp;associació&nbsp;encara&nbsp;no&nbsp;s'ha&nbsp;fet.<br>
+&nbsp;<br>
+arguments:<br>
+tipus&nbsp;--&nbsp;un&nbsp;array&nbsp;de&nbsp;tipus&nbsp;de&nbsp;patrons&nbsp;que&nbsp;volem&nbsp;actualitzar&nbsp;associant&nbsp;els&nbsp;labels<br>
+model&nbsp;--&nbsp;model&nbsp;KMeans&nbsp;entrenat<br>
+&nbsp;<br>
+Returns:&nbsp;array&nbsp;de&nbsp;diccionaris&nbsp;amb&nbsp;l'assignació&nbsp;dels&nbsp;tipus&nbsp;als&nbsp;labels</span></dd></dl>
+ <dl><dt><a name="-clean"><strong>clean</strong></a>(df)</dt><dd><span class="code">Elimina&nbsp;les&nbsp;columnes&nbsp;que&nbsp;no&nbsp;són&nbsp;necessàries&nbsp;per&nbsp;a&nbsp;l'anàlisi&nbsp;dels&nbsp;clústers<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;df&nbsp;--&nbsp;dataframe<br>
+&nbsp;<br>
+Returns:&nbsp;dataframe</span></dd></dl>
+ <dl><dt><a name="-clustering_kmeans"><strong>clustering_kmeans</strong></a>(data, n_clusters=4)</dt><dd><span class="code">Crea&nbsp;el&nbsp;model&nbsp;KMeans&nbsp;de&nbsp;sk-learn,&nbsp;amb&nbsp;4&nbsp;clusters&nbsp;(estem&nbsp;cercant&nbsp;4&nbsp;agrupacions)<br>
+Entrena&nbsp;el&nbsp;model<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data&nbsp;--&nbsp;les&nbsp;dades:&nbsp;tp&nbsp;i&nbsp;tb<br>
+&nbsp;<br>
+Returns:&nbsp;model&nbsp;(objecte&nbsp;KMeans)</span></dd></dl>
+ <dl><dt><a name="-extract_true_labels"><strong>extract_true_labels</strong></a>(df)</dt><dd><span class="code">Guardem&nbsp;les&nbsp;etiquetes&nbsp;dels&nbsp;ciclistes&nbsp;(BEBB,&nbsp;...)<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;df&nbsp;--&nbsp;dataframe<br>
+&nbsp;<br>
+Returns:&nbsp;numpy&nbsp;ndarray&nbsp;(true&nbsp;labels)</span></dd></dl>
+ <dl><dt><a name="-generar_informes"><strong>generar_informes</strong></a>(df, tipus)</dt><dd><span class="code">Generació&nbsp;dels&nbsp;informes&nbsp;a&nbsp;la&nbsp;carpeta&nbsp;informes/.&nbsp;Tenim&nbsp;un&nbsp;dataset&nbsp;de&nbsp;ciclistes&nbsp;i&nbsp;4&nbsp;clústers,&nbsp;i&nbsp;generem<br>
+4&nbsp;fitxers&nbsp;de&nbsp;ciclistes&nbsp;per&nbsp;cadascun&nbsp;dels&nbsp;clústers<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;df&nbsp;--&nbsp;dataframe<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tipus&nbsp;--&nbsp;objecte&nbsp;que&nbsp;associa&nbsp;els&nbsp;patrons&nbsp;de&nbsp;comportament&nbsp;amb&nbsp;els&nbsp;labels&nbsp;dels&nbsp;clústers<br>
+&nbsp;<br>
+Returns:&nbsp;None</span></dd></dl>
+ <dl><dt><a name="-load_dataset"><strong>load_dataset</strong></a>(path)</dt><dd><span class="code">Carrega&nbsp;el&nbsp;dataset&nbsp;de&nbsp;registres&nbsp;dels&nbsp;ciclistes<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;path&nbsp;--&nbsp;dataset<br>
+&nbsp;<br>
+Returns:&nbsp;dataframe</span></dd></dl>
+ <dl><dt><a name="-nova_prediccio"><strong>nova_prediccio</strong></a>(dades, model)</dt><dd><span class="code">Passem&nbsp;nous&nbsp;valors&nbsp;de&nbsp;ciclistes,&nbsp;per&nbsp;tal&nbsp;d'assignar&nbsp;aquests&nbsp;valors&nbsp;a&nbsp;un&nbsp;dels&nbsp;4&nbsp;clústers<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dades&nbsp;--&nbsp;llista&nbsp;de&nbsp;llistes,&nbsp;que&nbsp;segueix&nbsp;l'estructura&nbsp;'id',&nbsp;'tp',&nbsp;'tb',&nbsp;'tt'<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;model&nbsp;--&nbsp;clustering&nbsp;model<br>
+Returns:&nbsp;(dades&nbsp;agrupades,&nbsp;prediccions&nbsp;del&nbsp;model)</span></dd></dl>
+ <dl><dt><a name="-visualitzar_clusters"><strong>visualitzar_clusters</strong></a>(data, labels)</dt><dd><span class="code">Visualitza&nbsp;els&nbsp;clusters&nbsp;en&nbsp;diferents&nbsp;colors.&nbsp;Provem&nbsp;diferents&nbsp;combinacions&nbsp;de&nbsp;parells&nbsp;d'atributs<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data&nbsp;--&nbsp;el&nbsp;dataset&nbsp;sobre&nbsp;el&nbsp;qual&nbsp;hem&nbsp;entrenat<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;labels&nbsp;--&nbsp;l'array&nbsp;d'etiquetes&nbsp;a&nbsp;què&nbsp;pertanyen&nbsp;les&nbsp;dades&nbsp;(hem&nbsp;assignat&nbsp;les&nbsp;dades&nbsp;a&nbsp;un&nbsp;dels&nbsp;4&nbsp;clústers)<br>
+&nbsp;<br>
+Returns:&nbsp;None</span></dd></dl>
+ <dl><dt><a name="-visualitzar_pairplot"><strong>visualitzar_pairplot</strong></a>(df)</dt><dd><span class="code">Genera&nbsp;una&nbsp;imatge&nbsp;combinant&nbsp;entre&nbsp;sí&nbsp;tots&nbsp;els&nbsp;parells&nbsp;d'atributs.<br>
+Serveix&nbsp;per&nbsp;apreciar&nbsp;si&nbsp;es&nbsp;podran&nbsp;trobar&nbsp;clústers.<br>
+&nbsp;<br>
+arguments:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;df&nbsp;--&nbsp;dataframe<br>
+&nbsp;<br>
+Returns:&nbsp;None</span></dd></dl>
+</td></tr></table>
+</body></html>

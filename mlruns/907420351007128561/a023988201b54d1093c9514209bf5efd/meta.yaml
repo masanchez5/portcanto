@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/a023988201b54d1093c9514209bf5efd/artifacts
+deleted_time: 1734259857301
+end_time: 1734259801160
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: a023988201b54d1093c9514209bf5efd
+run_name: fearless-auk-67
+run_uuid: a023988201b54d1093c9514209bf5efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259800849
+status: 3
+tags: []
+user_id: migue

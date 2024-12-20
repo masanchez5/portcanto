@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/554c3ff4a0f349b4b83c5264ee543588/artifacts
+end_time: 1734260708900
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: active
+run_id: 554c3ff4a0f349b4b83c5264ee543588
+run_name: crawling-grub-549
+run_uuid: 554c3ff4a0f349b4b83c5264ee543588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260708801
+status: 3
+tags: []
+user_id: migue

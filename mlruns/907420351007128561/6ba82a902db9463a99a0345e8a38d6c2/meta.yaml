@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/6ba82a902db9463a99a0345e8a38d6c2/artifacts
+deleted_time: 1734259683668
+end_time: 1734259675751
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 6ba82a902db9463a99a0345e8a38d6c2
+run_name: bright-kit-858
+run_uuid: 6ba82a902db9463a99a0345e8a38d6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259675659
+status: 3
+tags: []
+user_id: migue

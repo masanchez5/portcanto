@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/819097f4f8f541cda8474c79dcb161e2/artifacts
+deleted_time: 1734260663367
+end_time: 1734260020366
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 819097f4f8f541cda8474c79dcb161e2
+run_name: nimble-hound-630
+run_uuid: 819097f4f8f541cda8474c79dcb161e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260020079
+status: 3
+tags: []
+user_id: migue

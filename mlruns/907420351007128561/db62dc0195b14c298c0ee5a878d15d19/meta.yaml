@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/db62dc0195b14c298c0ee5a878d15d19/artifacts
+deleted_time: 1734259730685
+end_time: 1734259706672
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: db62dc0195b14c298c0ee5a878d15d19
+run_name: stylish-bug-866
+run_uuid: db62dc0195b14c298c0ee5a878d15d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259706594
+status: 3
+tags: []
+user_id: migue

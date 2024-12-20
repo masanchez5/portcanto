@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/66ffbfd2096147b9942edf54d6f02e55/artifacts
+deleted_time: 1734259796626
+end_time: 1734259737949
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 66ffbfd2096147b9942edf54d6f02e55
+run_name: tasteful-pig-843
+run_uuid: 66ffbfd2096147b9942edf54d6f02e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259737842
+status: 3
+tags: []
+user_id: migue

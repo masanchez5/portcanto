@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/653dbb08bc8a498498db0336a6fe3fcf/artifacts
+deleted_time: 1734260701790
+end_time: 1734260687888
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: 653dbb08bc8a498498db0336a6fe3fcf
+run_name: placid-shark-868
+run_uuid: 653dbb08bc8a498498db0336a6fe3fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734260687804
+status: 3
+tags: []
+user_id: migue

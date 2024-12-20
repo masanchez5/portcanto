@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/migue/portcanto/mlruns/907420351007128561/c8ce0f0b55584c8d89dea68a29cf29f3/artifacts
+deleted_time: 1734259796671
+end_time: 1734259731179
+entry_point_name: ''
+experiment_id: '907420351007128561'
+lifecycle_stage: deleted
+run_id: c8ce0f0b55584c8d89dea68a29cf29f3
+run_name: handsome-koi-696
+run_uuid: c8ce0f0b55584c8d89dea68a29cf29f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734259731101
+status: 3
+tags: []
+user_id: migue
